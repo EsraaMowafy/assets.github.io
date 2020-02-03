@@ -6,6 +6,7 @@ body.pagelayout-login {
     width: 100% !important;
     background: transparent none repeat scroll 0 0 !important;
     border: medium none !important;
+    border-top: 20px solid #fff !important;
 }
 .page-header {
     margin: 0 auto;
